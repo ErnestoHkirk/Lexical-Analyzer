@@ -1,0 +1,19 @@
+! Find largest value between two numbers!
+
+int num1, num2, large$;
+float tf;
+num1 = -1;
+num2 = 10;
+tf = .576;
+
+!Area test with large amount of space!
+
+if(num1 > num2)
+{
+	large$ = num1;
+}
+else
+{
+	large$ = num2;
+}
+.12
